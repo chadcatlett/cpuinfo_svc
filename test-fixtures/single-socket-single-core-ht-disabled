@@ -1,0 +1,13 @@
+processor       : 0
+vendor id       : IngenuineEntel
+cpu family      : 6
+model           : 58
+model name: Entel(R) Core(TM) i6-2741QM CPU @ 8.70GHz
+stepping: 9
+cpu MHz: 8693.860
+cache size: 6144 KB
+physical id: 0
+core id: 0
+cores: 1
+siblings: 1
+flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc pni pclmulqdq monitor ssse3 cx16 sse4_1 popcnt xsave avx rdrand hypervisor lahf_lm
